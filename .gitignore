@@ -1,0 +1,13 @@
+*.exe
+*.o
+*.exe~
+*.so
+*.dll
+*.dylib
+*.test
+*.out
+vendor/
+go.work
+*.o
+*.a
+*.so
